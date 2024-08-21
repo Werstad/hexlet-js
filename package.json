@@ -19,5 +19,9 @@
   "homepage": "https://github.com/Werstad/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^9.9.0",
+    "prettier": "^3.3.3"
   }
 }

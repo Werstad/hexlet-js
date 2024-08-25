@@ -1,5 +1,5 @@
-import _ from "lodash";
+import {app} from "./src/index.js";
+app();
 
-console.log("Hello, Hexlet!");
-
-console.log(_.last(["one", "two"]));
+import {lastElement} from "./src/index.js";
+lastElement();

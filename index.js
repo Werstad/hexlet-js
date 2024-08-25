@@ -1,5 +1,4 @@
-import {app} from "./src/index.js";
-app();
+import { app, lastElement } from './src/index.js';
 
-import {lastElement} from "./src/index.js";
+app();
 lastElement();
